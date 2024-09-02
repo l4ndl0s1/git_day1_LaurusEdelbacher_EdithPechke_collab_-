@@ -1,1 +1,1 @@
-First pratice of Git and GitHub.
+First practice of Git and GitHub.
